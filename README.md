@@ -7,7 +7,7 @@
 <li>JAVASCRIPT</li>
 <li>REACT + VITE</li>
 <br>
-<img href="https://github.com/wellitonsansao07/twitter/blob/main/twitter%20ws.png?raw=true" />
+<img src="https://github.com/wellitonsansao07/twitter/blob/main/twitter%20ws.png?raw=true" />
 <br>
 
 # React + Vite
